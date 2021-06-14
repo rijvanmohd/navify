@@ -6,7 +6,7 @@ function Home() {
     <div>
       <Navbar
         title={"Trial Lesson [Grade 1-3]"}
-        time={"02:00"}
+        time={"10:00"}
         counter={true}
       />
       {/* {
